@@ -1,12 +1,8 @@
-I am @Minhaj ,  a Software Engineer working with Enterprise Solutions. 
-I am dedicated to design and develop  software solutions which enables better performance and delivery. 
-I have many years of experience with development and maintenance of legacy software architecture and transforming into modern scalable microservice architecture using modern technology stacks like Docker/Kubernetes etc. 
-Work experiences include:
-- RESTful API
-- Data Model
+Experienced Software Engineer having over 13 years of experience working in the Software/Telecom/Broadcasting industry. Have extensive exposure to Solution Design and implementation. Have many years of hands-on experience with several prominent tech stack and cloud based architecture. Lead projects involving several team members, starting from Solution Design, Architecting to Implementation all the way to successful Delivery to Stakeholders. 
+ Work experiences include:
+- Design and Implementation (Backend)
 - Microservice Architecture
-- Daemon based Architecture
 - Distributed Design
-- Unit/Integration/System Testing
-- Third party integration
-- Bug fixing
+- Performance & Optimisation
+- Scalability & Throughput Management 
+- Workflow Orchestration (BPMN) 
